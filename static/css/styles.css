@@ -1,0 +1,1694 @@
+.staff-email-4 a:hover,
+.text a:hover {
+  text-decoration: underline;
+  color: rgb(135, 167, 199);
+}
+
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1.063em/1.38 'Fauna One';
+  color: rgb(0, 0, 0);
+}
+
+.page-index {
+  color: rgb(0, 0, 0);
+}
+
+.page-religious-education {
+  color: rgb(255, 255, 255);
+}
+
+.section-title-1 p {
+  margin-bottom: 0.3em;
+}
+
+.contact-info p,
+li p {
+  margin-bottom: 0.4em;
+}
+
+.about {
+  float: left;
+  width: 49.7142857142%;
+  margin-left: 4.28423%;
+}
+
+.about .section-title {
+  width: 376px;
+}
+
+.about-photo {
+  display: block;
+  float: right;
+  width: 37.619047619%;
+  height: auto;
+  margin-right: 4.60417%;
+  box-shadow: 1px 2px 5px rgb(77, 77, 77);
+  overflow: hidden;
+}
+
+.adoration {
+  position: relative;
+  z-index: 22;
+  width: 31.9786461808%;
+  margin-left: 2.08171%;
+}
+
+.adoration .schedule-day,
+.confession .schedule-day {
+  float: left;
+  clear: both;
+  font-family: Cabin;
+  font-size: 1em;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: rgb(13, 50, 88);
+}
+
+.adoration .schedule-time,
+.confession .schedule-time {
+  float: left;
+  clear: both;
+  width: 100%;
+  margin-top: 10px;
+  font-size: 0.941em;
+  text-align: center;
+}
+
+.adoration .section-subtitle {
+  float: left;
+  font-size: 1.118em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.bulletin-btn {
+  display: block;
+  margin: 28px auto 0;
+  padding: 20px;
+  border-radius: 3px;
+  background-color: rgb(13, 50, 88);
+  font-family: Cabin;
+  font-size: 0.941em;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: rgb(255, 255, 255);
+}
+
+.bulletin-btn:active,
+.bulletin-btn:focus,
+.bulletin-btn:hover {
+  background-color: rgb(135, 167, 199);
+}
+
+.confession {
+  position: relative;
+  z-index: 14;
+  width: 31.9786461808%;
+  margin-left: 1.97266%;
+}
+
+.confession .section-subtitle,
+.mass .section-subtitle {
+  float: left;
+  font-size: 1.118em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.contact {
+  float: left;
+  width: 42.2413793103%;
+  margin-left: 8.62069%;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+.container .schedule {
+  float: left;
+  width: 100%;
+  box-shadow: 1px 2px 5px rgb(77, 77, 77);
+}
+
+.container .staff-avatar {
+  width: 40.0644750159%;
+  margin-left: 0.34028%;
+}
+
+.container .staff-email {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.container .staff-info {
+  width: 53.5555555555%;
+  margin: 27px 0 0 4.79167%;
+}
+
+.container .staff-member {
+  width: 50%;
+  margin-top: 61px;
+}
+
+.container .staff-name {
+  margin: 0 auto;
+}
+
+.container .staff-role {
+  margin-right: auto;
+  margin-left: auto;
+  color: rgb(135, 167, 199);
+}
+
+.container .text {
+  float: left;
+  width: 50%;
+  margin-top: 112px;
+  padding: 10px;
+  color: rgb(255, 255, 255);
+}
+
+.english-kids {
+  margin-left: 5.99583%;
+}
+
+.english-kids .schedule-day {
+  margin-top: 15px;
+  font-size: 1.118em;
+  color: rgb(0, 0, 0);
+}
+
+.english-kids .schedule-time {
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 1em;
+}
+
+.english-kids .section-subtitle {
+  margin: 0 auto;
+  font-family: Cabin;
+  font-size: 1.412em;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: rgb(13, 50, 88);
+}
+
+.give-button {
+  right: 0;
+  overflow: hidden;
+}
+
+.hispanic-button {
+  right: 45.3907599309%;
+}
+
+.give-button:focus,
+.give-button:hover,
+.hispanic-button:focus,
+.hispanic-button:hover,
+.rel-ed-button:focus,
+.rel-ed-button:hover {
+  border-style: none;
+}
+
+.home-button {
+  right: 85.4949265975%;
+}
+
+.home-button:hover {
+  border-width: 1px;
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.home-button:active {
+  border-width: 1;
+  border-style: solid;
+}
+
+.home-button:focus {
+  border-width: 1;
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.horizontal {
+  position: relative;
+  float: left;
+  width: 100%;
+}
+
+.image {
+  display: block;
+  width: 384px;
+  height: auto;
+  overflow: hidden;
+}
+
+.main-nav {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 53;
+  width: 100%;
+  height: 59px;
+  background: rgb(13, 50, 88);
+  background: -webkit-linear-gradient(0deg, rgb(13, 50, 88) 8.095238095238095%, rgb(135, 167, 199) 30.476190476190478%, rgb(13, 50, 88) 61.904761904761905%) #0d3258;
+  background:    -moz-linear-gradient(0deg, rgb(13, 50, 88) 8.095238095238095%, rgb(135, 167, 199) 30.476190476190478%, rgb(13, 50, 88) 61.904761904761905%) #0d3258;
+  background:      -o-linear-gradient(0deg, rgb(13, 50, 88) 8.095238095238095%, rgb(135, 167, 199) 30.476190476190478%, rgb(13, 50, 88) 61.904761904761905%) #0d3258;
+  background:     -ms-linear-gradient(0deg, rgb(13, 50, 88) 8.095238095238095%, rgb(135, 167, 199) 30.476190476190478%, rgb(13, 50, 88) 61.904761904761905%) #0d3258;
+  background:         linear-gradient(450deg, rgb(13, 50, 88) 8.095238095238095%, rgb(135, 167, 199) 30.476190476190478%, rgb(13, 50, 88) 61.904761904761905%) #0d3258;
+}
+
+.main-nav .give-button {
+  z-index: 51;
+}
+
+.main-nav .hispanic-button {
+  z-index: 49;
+}
+
+.main-nav .home-button {
+  z-index: 48;
+}
+
+.main-nav .rel-ed-button {
+  z-index: 50;
+}
+
+.main-nav-buttons {
+  position: relative;
+  float: right;
+  width: 579px;
+  height: 35px;
+  min-height: 30px;
+  margin: 13px 10% 0 0;
+}
+
+.mass {
+  position: relative;
+  z-index: 34;
+  width: 31.9786461808%;
+}
+
+.mass .schedule-day {
+  float: left;
+  clear: both;
+  margin-top: 20px;
+  font-family: Cabin;
+  font-size: 1em;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: rgb(13, 50, 88);
+}
+
+.mass .schedule-time {
+  float: left;
+  clear: both;
+  width: 100%;
+  font-size: 0.941em;
+  text-align: center;
+}
+
+.nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 78;
+  width: 100%;
+  height: 59px;
+  background: rgb(13, 50, 88);
+  background: -webkit-linear-gradient(0deg, rgb(13, 50, 88) 8.095238095238095%, rgb(135, 167, 199) 30.476190476190478%, rgb(13, 50, 88) 61.904761904761905%) #0d3258;
+  background:    -moz-linear-gradient(0deg, rgb(13, 50, 88) 8.095238095238095%, rgb(135, 167, 199) 30.476190476190478%, rgb(13, 50, 88) 61.904761904761905%) #0d3258;
+  background:      -o-linear-gradient(0deg, rgb(13, 50, 88) 8.095238095238095%, rgb(135, 167, 199) 30.476190476190478%, rgb(13, 50, 88) 61.904761904761905%) #0d3258;
+  background:     -ms-linear-gradient(0deg, rgb(13, 50, 88) 8.095238095238095%, rgb(135, 167, 199) 30.476190476190478%, rgb(13, 50, 88) 61.904761904761905%) #0d3258;
+  background:         linear-gradient(450deg, rgb(13, 50, 88) 8.095238095238095%, rgb(135, 167, 199) 30.476190476190478%, rgb(13, 50, 88) 61.904761904761905%) #0d3258;
+}
+
+.nav .give-button {
+  z-index: 76;
+}
+
+.nav .hispanic-button {
+  z-index: 74;
+}
+
+.nav .home-button {
+  z-index: 73;
+}
+
+.nav .rel-ed-button {
+  z-index: 75;
+}
+
+.nav-button {
+  display: block;
+  position: absolute;
+  top: 0;
+  padding: 7px 17px;
+  background-color: rgba(255, 255, 255, 0);
+  font-family: Cabin;
+  font-size: 0.824em;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: rgb(255, 255, 255);
+}
+
+.nav-button:focus,
+.nav-button:hover {
+  border-color: rgb(255, 255, 255);
+  color: rgb(135, 167, 199);
+}
+
+.nav-button:active {
+  border-color: rgb(255, 255, 255);
+  background-color: rgba(135, 167, 199, 0);
+  text-decoration: none;
+  color: rgb(135, 167, 199);
+}
+
+.note {
+  float: left;
+  clear: both;
+  width: 100%;
+  font: 0.824em/1.5 Cabin;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.note-4 p,
+.text-1 p {
+  margin-bottom: 1em;
+}
+
+.page-title {
+  width: 425px;
+  margin: 189px auto 0;
+}
+
+.page-title-text {
+  margin: 0 auto;
+  font-size: 2.235em;
+  text-align: center;
+  letter-spacing: 2px;
+  color: rgb(255, 252, 252);
+}
+
+.parish-about {
+  clear: both;
+  margin-top: 487px;
+  padding: 75px;
+  background-color: rgb(255, 255, 255);
+}
+
+.parish-about .section-title {
+  width: 272px;
+}
+
+.about .section-title-text,
+.parish-about .section-title-text {
+  min-height: 43px;
+  color: rgb(0, 0, 0);
+}
+
+.parish-about .text {
+  width: 91.4285714285%;
+  margin: 38px auto 0;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.parish-name {
+  float: left;
+  margin: 140px 0 0 10%;
+  font-size: 2.235em;
+  color: rgb(255, 252, 252);
+}
+
+.parish-schedule {
+  clear: both;
+  z-index: 39;
+  padding: 75px;
+}
+
+.parish-schedule .schedule {
+  width: 91.4285714285%;
+  margin: 50px auto 0;
+}
+
+.parish-schedule .section-title {
+  width: 238px;
+}
+
+.parish-schedule .section-title-text {
+  color: rgb(0, 0, 0);
+}
+
+.parish-staff {
+  clear: both;
+  z-index: 62;
+  padding: 75px;
+  background: rgb(13, 50, 88);
+  background: -webkit-linear-gradient(0deg, rgba(13, 50, 88, 0.8) 0.7142857142857143%, rgba(13, 50, 88, 0.8) 100%), url('../images/university-study-group_925x.jpg') rgb(13, 50, 88);
+  background:    -moz-linear-gradient(0deg, rgba(13, 50, 88, 0.8) 0.7142857142857143%, rgba(13, 50, 88, 0.8) 100%), url('../images/university-study-group_925x.jpg') rgb(13, 50, 88);
+  background:      -o-linear-gradient(0deg, rgba(13, 50, 88, 0.8) 0.7142857142857143%, rgba(13, 50, 88, 0.8) 100%), url('../images/university-study-group_925x.jpg') rgb(13, 50, 88);
+  background:     -ms-linear-gradient(0deg, rgba(13, 50, 88, 0.8) 0.7142857142857143%, rgba(13, 50, 88, 0.8) 100%), url('../images/university-study-group_925x.jpg') rgb(13, 50, 88);
+  background:         linear-gradient(450deg, rgba(13, 50, 88, 0.8) 0.7142857142857143%, rgba(13, 50, 88, 0.8) 100%), url('../images/university-study-group_925x.jpg') rgb(13, 50, 88);
+  background-repeat: repeat, no-repeat;
+  background-size: 100% 100%, 1200px auto;
+  background-position: 0% 0%, center center;
+  background-attachment: scroll, scroll;
+}
+
+.parish-staff .section-title {
+  width: 183px;
+}
+
+.parish-staff .section-title-text {
+  color: rgb(255, 255, 255);
+}
+
+.quick-links {
+  float: right;
+  width: 20.4166666666%;
+  margin-right: 8.47926%;
+}
+
+.contact-info,
+.quick-links-list {
+  float: left;
+  clear: both;
+  width: 100%;
+  margin-top: 19px;
+  font-size: 0.765em;
+  color: rgb(255, 255, 255);
+}
+
+.quick-links-title,
+.stfrancis {
+  float: left;
+  width: 100%;
+  font-family: Cabin;
+  font-size: 0.941em;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: rgb(255, 255, 255);
+}
+
+.rel-ed-button {
+  right: 18.671740069%;
+}
+
+.religious-ed {
+  clear: both;
+  padding: 75px;
+}
+
+.religious-ed .container {
+  width: 91.3333333333%;
+}
+
+.sacramental-prep {
+  clear: both;
+  margin-top: -802px;
+  padding: 75px;
+  background: rgb(13, 50, 88);
+  background: -webkit-linear-gradient(0deg, rgba(13, 50, 88, 0.8) 0.7142857142857143%, rgba(13, 50, 88, 0.8) 100%), url('../images/josh-applegate-328898.jpg') rgb(13, 50, 88);
+  background:    -moz-linear-gradient(0deg, rgba(13, 50, 88, 0.8) 0.7142857142857143%, rgba(13, 50, 88, 0.8) 100%), url('../images/josh-applegate-328898.jpg') rgb(13, 50, 88);
+  background:      -o-linear-gradient(0deg, rgba(13, 50, 88, 0.8) 0.7142857142857143%, rgba(13, 50, 88, 0.8) 100%), url('../images/josh-applegate-328898.jpg') rgb(13, 50, 88);
+  background:     -ms-linear-gradient(0deg, rgba(13, 50, 88, 0.8) 0.7142857142857143%, rgba(13, 50, 88, 0.8) 100%), url('../images/josh-applegate-328898.jpg') rgb(13, 50, 88);
+  background:         linear-gradient(450deg, rgba(13, 50, 88, 0.8) 0.7142857142857143%, rgba(13, 50, 88, 0.8) 100%), url('../images/josh-applegate-328898.jpg') rgb(13, 50, 88);
+  background-repeat: repeat, no-repeat;
+  background-size: 100% 100%, 1200px auto;
+  background-position: 0% 0%, center center;
+  background-attachment: scroll, fixed;
+}
+
+.sacramental-prep .container {
+  width: 91.4285714285%;
+  padding: 10px;
+}
+
+.sacramental-prep .section-title {
+  width: 319px;
+}
+
+.sacramental-prep .section-title-text {
+  min-height: 43px;
+  color: rgb(255, 255, 255);
+}
+
+.schedule {
+  position: relative;
+}
+
+.schedule-day,
+.section-subtitle {
+  width: 100%;
+}
+
+.schedule-section {
+  float: left;
+}
+
+.schedule-section .note {
+  margin-top: 5px;
+}
+
+.schedule-time {
+  color: rgb(0, 0, 0);
+}
+
+.section-content {
+  width: 100%;
+  margin: 24px auto 0;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.section-content p {
+  margin-bottom: 1em;
+}
+
+.section-title {
+  margin: 0 auto;
+}
+
+.page-title-border,
+.section-title-border {
+  width: 80%;
+  height: 2px;
+  margin: 11px auto 0;
+  background-color: rgb(135, 167, 199);
+}
+
+.section-title-text {
+  width: 100%;
+  margin: 0 auto;
+  font-family: Cabin;
+  font-size: 1.412em;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.staff {
+  width: 91.4285714285%;
+  margin: 40px auto 0;
+}
+
+.staff .staff-avatar {
+  width: 75%;
+}
+
+.staff .staff-email {
+  float: left;
+  clear: both;
+}
+
+.staff .staff-info {
+  clear: both;
+  width: 100%;
+  margin-top: 21px;
+}
+
+.staff .staff-member {
+  width: 31.7708333333%;
+}
+
+.staff .staff-name {
+  float: left;
+}
+
+.staff .staff-role {
+  float: left;
+  clear: both;
+  color: rgb(255, 255, 255);
+}
+
+.staff-avatar {
+  display: block;
+  float: left;
+  height: auto;
+  overflow: hidden;
+}
+
+.staff-email {
+  display: block;
+  width: 100%;
+  margin-top: 10px;
+  font: 0.824em/1.5 Cabin;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.staff-info {
+  float: left;
+}
+
+.staff-member {
+  float: left;
+  padding: 10px;
+}
+
+.staff-name {
+  width: 100%;
+  font-size: 1.118em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.staff-role {
+  width: 100%;
+  margin-top: 10px;
+  font-family: Cabin;
+  font-size: 1em;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.text {
+  font-size: 1.118em;
+}
+
+.horizontal-1 {
+  clear: both;
+  z-index: 70;
+  padding: 75px;
+  background-color: rgb(255, 255, 255);
+}
+
+.horizontal-3 {
+  z-index: 47;
+  height: 346px;
+  background: rgb(13, 50, 88);
+  background: -webkit-linear-gradient(0deg, rgba(13, 50, 88, 0.8) 0.7142857142857143%, rgba(13, 50, 88, 0.8) 100%), url('../images/crowd-participating-at-event_925x(2).jpg') rgb(13, 50, 88);
+  background:    -moz-linear-gradient(0deg, rgba(13, 50, 88, 0.8) 0.7142857142857143%, rgba(13, 50, 88, 0.8) 100%), url('../images/crowd-participating-at-event_925x(2).jpg') rgb(13, 50, 88);
+  background:      -o-linear-gradient(0deg, rgba(13, 50, 88, 0.8) 0.7142857142857143%, rgba(13, 50, 88, 0.8) 100%), url('../images/crowd-participating-at-event_925x(2).jpg') rgb(13, 50, 88);
+  background:     -ms-linear-gradient(0deg, rgba(13, 50, 88, 0.8) 0.7142857142857143%, rgba(13, 50, 88, 0.8) 100%), url('../images/crowd-participating-at-event_925x(2).jpg') rgb(13, 50, 88);
+  background:         linear-gradient(450deg, rgba(13, 50, 88, 0.8) 0.7142857142857143%, rgba(13, 50, 88, 0.8) 100%), url('../images/crowd-participating-at-event_925x(2).jpg') rgb(13, 50, 88);
+  background-repeat: repeat, no-repeat;
+  background-size: 100% 100%, 1200px auto;
+  background-position: 0% 0%, 50% 30%;
+  background-attachment: scroll, scroll;
+}
+
+.image-2 {
+  float: right;
+}
+
+.image-1,
+.image-3 {
+  float: left;
+}
+
+.note-4 {
+  margin-top: 45px;
+  padding: 18px;
+  background-color: rgba(13, 50, 88, 0);
+}
+
+.schedule-2 {
+  clear: both;
+  height: 256px;
+  margin-top: 64px;
+  overflow: hidden;
+}
+
+.schedule-4 {
+  clear: both;
+  margin-top: 64px;
+}
+
+.schedule-day-1 {
+  float: left;
+  clear: both;
+}
+
+.schedule-day-11,
+.schedule-day-8,
+.schedule-day-9,
+.schedule-time-4 {
+  margin-top: 15px;
+}
+
+.schedule-day-10,
+.schedule-day-12,
+.schedule-day-7 {
+  margin-top: 20px;
+}
+
+.schedule-day-2,
+.schedule-day-5 {
+  margin: 0 auto;
+}
+
+.schedule-section-1 {
+  width: 44.0041710114%;
+  margin-top: 66px;
+}
+
+.schedule-section-2,
+.schedule-section-4 {
+  width: 44%;
+  margin-top: 75px;
+}
+
+.schedule-time-1 {
+  margin-top: 51px;
+}
+
+.schedule-time-2,
+.schedule-time-3,
+.schedule-time-5,
+.schedule-time-6,
+.schedule-time-7 {
+  margin-top: 10px;
+}
+
+.section-subtitle-7 {
+  clear: both;
+  margin-top: 24px;
+}
+
+.staff-avatar-2 {
+  margin-left: 13.56908%;
+}
+
+.staff-avatar-1,
+.staff-avatar-3 {
+  margin-left: 12.4506599999%;
+}
+
+.staff-info-2 {
+  margin-left: 1.1293899999%;
+}
+
+.staff-member-2 {
+  margin-left: 2.29167%;
+}
+
+.staff-member-3 {
+  margin-left: 2.39421%;
+}
+
+._container-1 {
+  position: relative;
+  float: left;
+  z-index: 72;
+  width: 100%;
+  padding-bottom: 45px;
+  background: rgb(13, 50, 88);
+  background: -webkit-linear-gradient(0deg, rgb(13, 50, 88) 8.095238095238095%, rgb(135, 167, 199) 30.476190476190478%, rgb(13, 50, 88) 61.904761904761905%) #0d3258;
+  background:    -moz-linear-gradient(0deg, rgb(13, 50, 88) 8.095238095238095%, rgb(135, 167, 199) 30.476190476190478%, rgb(13, 50, 88) 61.904761904761905%) #0d3258;
+  background:      -o-linear-gradient(0deg, rgb(13, 50, 88) 8.095238095238095%, rgb(135, 167, 199) 30.476190476190478%, rgb(13, 50, 88) 61.904761904761905%) #0d3258;
+  background:     -ms-linear-gradient(0deg, rgb(13, 50, 88) 8.095238095238095%, rgb(135, 167, 199) 30.476190476190478%, rgb(13, 50, 88) 61.904761904761905%) #0d3258;
+  background:         linear-gradient(450deg, rgb(13, 50, 88) 8.095238095238095%, rgb(135, 167, 199) 30.476190476190478%, rgb(13, 50, 88) 61.904761904761905%) #0d3258;
+}
+
+._container-4 {
+  float: left;
+  width: 100%;
+  padding: 71px 20px;
+  background: rgb(255, 255, 255);
+  background: -webkit-linear-gradient(0deg, rgb(255, 255, 255) 0%, rgba(135, 167, 199, 0.9) 0%), url('../images/karl-fredrickson-27507.jpg') rgb(13, 50, 88);
+  background:    -moz-linear-gradient(0deg, rgb(255, 255, 255) 0%, rgba(135, 167, 199, 0.9) 0%), url('../images/karl-fredrickson-27507.jpg') rgb(13, 50, 88);
+  background:      -o-linear-gradient(0deg, rgb(255, 255, 255) 0%, rgba(135, 167, 199, 0.9) 0%), url('../images/karl-fredrickson-27507.jpg') rgb(13, 50, 88);
+  background:     -ms-linear-gradient(0deg, rgb(255, 255, 255) 0%, rgba(135, 167, 199, 0.9) 0%), url('../images/karl-fredrickson-27507.jpg') rgb(13, 50, 88);
+  background:         linear-gradient(450deg, rgb(255, 255, 255) 0%, rgba(135, 167, 199, 0.9) 0%), url('../images/karl-fredrickson-27507.jpg') rgb(13, 50, 88);
+  background-repeat: repeat, repeat;
+  background-size: 100% 100%, 1200px auto;
+  background-position: 0% 0%, 50% 95%;
+  background-attachment: scroll, scroll;
+}
+
+._container-5 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 6;
+  width: 100%;
+  padding: 71px 20px;
+  background: rgb(255, 255, 255);
+  background: -webkit-linear-gradient(0deg, rgb(255, 255, 255) 0%, rgba(135, 167, 199, 0.9) 0%), url('../images/karl-fredrickson-27507.jpg') rgb(13, 50, 88);
+  background:    -moz-linear-gradient(0deg, rgb(255, 255, 255) 0%, rgba(135, 167, 199, 0.9) 0%), url('../images/karl-fredrickson-27507.jpg') rgb(13, 50, 88);
+  background:      -o-linear-gradient(0deg, rgb(255, 255, 255) 0%, rgba(135, 167, 199, 0.9) 0%), url('../images/karl-fredrickson-27507.jpg') rgb(13, 50, 88);
+  background:     -ms-linear-gradient(0deg, rgb(255, 255, 255) 0%, rgba(135, 167, 199, 0.9) 0%), url('../images/karl-fredrickson-27507.jpg') rgb(13, 50, 88);
+  background:         linear-gradient(450deg, rgb(255, 255, 255) 0%, rgba(135, 167, 199, 0.9) 0%), url('../images/karl-fredrickson-27507.jpg') rgb(13, 50, 88);
+  background-repeat: repeat, repeat;
+  background-size: 100% 100%, 1200px auto;
+  background-position: 0% 0%, 50% 95%;
+  background-attachment: scroll, scroll;
+}
+
+.page-title-text span,
+.quick-links-list a,
+.quick-links-list em,
+.quick-links-list span,
+.section-title-text span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.quick-links-list strong {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: keep-all;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.quick-links-title strong,
+.schedule-day strong,
+.section-subtitle strong {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: 700;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.section-content a {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: rgb(203, 39, 39);
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.section-content span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: #000000;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.staff-email a {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: underline;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.stfrancis strong {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: normal;
+  font-size: inherit;
+  font-weight: 700;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text a {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: underline;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: rgb(13, 50, 88);
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+@media(max-width: 1000px) {
+  body {
+    font-size: 1.063em;
+  }
+
+  .container .staff-avatar {
+    width: 206px;
+    height: auto;
+    margin-left: 0.3361199999%;
+  }
+
+  .container .staff-info {
+    width: 277px;
+    margin-top: 47px;
+    margin-left: 4.79046%;
+  }
+
+  .container .staff-member {
+    float: none;
+    width: 536px;
+    margin-top: 29px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .container .text {
+    float: none;
+    width: 89.8115855294%;
+    margin-top: 22px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .parish-about {
+    margin-top: 575px;
+  }
+
+  .sacramental-prep {
+    margin-top: -942px;
+  }
+
+  .schedule .english-kids {
+    width: 45%;
+  }
+
+  .schedule .image {
+    height: auto;
+  }
+
+  .container .schedule-2 {
+    height: auto;
+  }
+
+  .horizontal-3 {
+    position: relative;
+    z-index: 47;
+  }
+
+  .schedule .image-2 {
+    width: 310px;
+  }
+
+  .schedule .image-1,
+  .schedule .image-3 {
+    width: 311px;
+  }
+
+  .schedule .schedule-section-1 {
+    margin-top: 44px;
+    margin-left: 5.94747%;
+  }
+
+  .schedule .schedule-section-2,
+  .schedule .schedule-section-4 {
+    margin-top: 50px;
+    margin-left: 5.99175%;
+  }
+
+  ._container .contact-1 {
+    margin-left: 8.61979%;
+  }
+
+  ._container .quick-links-1 {
+    margin-right: 8.47819%;
+  }
+
+  ._container-4 {
+    margin-top: 3px;
+  }
+}
+
+@media(max-width: 900px) {
+  body {
+    font-size: 1.063em;
+  }
+
+  .about .bulletin-btn {
+    margin-top: 30px;
+  }
+
+  .about .section-title {
+    width: 381px;
+  }
+
+  .container .staff-avatar {
+    margin-left: 0.39063%;
+  }
+
+  .container .staff-info {
+    clear: both;
+    margin-top: -159px;
+    margin-left: 47.03549%;
+  }
+
+  .horizontal .about {
+    float: none;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .horizontal .about-photo {
+    float: none;
+    width: 50%;
+    height: auto;
+    margin-top: 49px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .nav .hispanic-button {
+    right: 45.0653698979%;
+  }
+
+  .nav .home-button {
+    right: 84.693877551%;
+  }
+
+  .nav .main-nav-buttons {
+    float: none;
+    width: 588px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .nav .nav-button {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+
+  .nav .rel-ed-button {
+    right: 18.534757653%;
+  }
+
+  .parish-schedule {
+    position: relative;
+    z-index: 39;
+  }
+
+  .horizontal .staff,
+  .parish-schedule .schedule {
+    margin-top: 24px;
+  }
+
+  .parish-staff {
+    position: relative;
+    z-index: 62;
+  }
+
+  .schedule .adoration {
+    position: relative;
+    z-index: 22;
+    margin-left: 2.08044%;
+  }
+
+  .schedule .confession {
+    position: relative;
+    z-index: 14;
+    margin-left: 1.96195%;
+  }
+
+  .schedule .image {
+    height: auto;
+  }
+
+  .schedule .mass {
+    position: relative;
+    z-index: 34;
+  }
+
+  .staff-member .staff-avatar {
+    height: auto;
+  }
+
+  .horizontal-1 {
+    position: relative;
+    z-index: 70;
+  }
+
+  .horizontal-3 {
+    position: relative;
+    z-index: 47;
+  }
+
+  .schedule .note-4 {
+    float: none;
+    clear: none;
+    width: 68.8344536857%;
+    margin-top: 455px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .schedule .schedule-section-1 {
+    margin-left: 5.9375%;
+  }
+
+  .schedule .schedule-section-2,
+  .schedule .schedule-section-4 {
+    margin-left: 5.98084%;
+  }
+
+  .staff .staff-member-2 {
+    margin-left: 2.29008%;
+  }
+
+  .staff .staff-member-3 {
+    margin-left: 2.39262%;
+  }
+
+  .staff-member .staff-avatar-2 {
+    margin-left: 13.56816%;
+  }
+
+  .staff-member .staff-avatar-1,
+  .staff-member .staff-avatar-3 {
+    margin-left: 12.4309%;
+  }
+
+  .staff-member .staff-info-2 {
+    margin-left: 1.12147%;
+  }
+
+  ._container .contact-1,
+  ._container .contact-2 {
+    margin-left: 8.61919%;
+  }
+
+  ._container .parish-name-1 {
+    float: none;
+    width: 670px;
+    margin-top: 84px;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 2.059em;
+    text-align: center;
+  }
+
+  ._container .quick-links-1,
+  ._container .quick-links-2 {
+    margin-right: 8.4738399999%;
+  }
+
+  ._container-1 {
+    position: relative;
+    float: none;
+    z-index: 72;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  ._container-5 {
+    position: relative;
+    z-index: 6;
+  }
+}
+
+@media(max-width: 701px) {
+  body {
+    font-size: 1.063em;
+  }
+
+  .parish-schedule {
+    position: relative;
+    z-index: 39;
+  }
+
+  .parish-staff {
+    position: relative;
+    z-index: 62;
+  }
+
+  .schedule .adoration {
+    position: relative;
+    z-index: 22;
+  }
+
+  .schedule .confession {
+    position: relative;
+    z-index: 14;
+  }
+
+  .schedule .mass {
+    position: relative;
+    z-index: 34;
+  }
+
+  .horizontal .about-photo,
+  .staff .staff-avatar {
+    height: auto;
+  }
+
+  .horizontal-1 {
+    position: relative;
+    z-index: 70;
+  }
+
+  .schedule .note-4 {
+    position: relative;
+    z-index: 7;
+  }
+
+  ._container .parish-name-1 {
+    width: 502px;
+  }
+
+  ._container-1 {
+    position: relative;
+    z-index: 72;
+  }
+
+  ._container-5 {
+    position: relative;
+    z-index: 6;
+  }
+}
+
+@media(max-width: 600px) {
+  body {
+    font-size: 1.063em;
+  }
+
+  .about .bulletin-btn {
+    margin-top: 301px;
+    padding: 29px;
+  }
+
+  .about .section-content {
+    float: left;
+    clear: both;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .contact .contact-info {
+    margin-top: 18px;
+  }
+
+  .container .schedule {
+    float: none;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .horizontal .about {
+    float: left;
+    width: 106.6666666666%;
+    margin-right: 0;
+    margin-left: -3.32639%;
+  }
+
+  .horizontal .about-photo {
+    float: left;
+    clear: both;
+    width: 106.6666666666%;
+    height: auto;
+    margin-top: 56px;
+    margin-right: 0;
+    margin-left: -3.32639%;
+  }
+
+  .horizontal .page-title {
+    margin-top: 104px;
+  }
+
+  .horizontal .staff {
+    width: 106.4444444444%;
+  }
+
+  .nav {
+    height: 64px;
+  }
+
+  .nav .hispanic-button {
+    right: 45.0680272108%;
+  }
+
+  .nav .main-nav-buttons {
+    width: 98%;
+    height: 39px;
+    margin-top: 10px;
+  }
+
+  .nav .nav-button {
+    padding-top: 9px;
+    padding-bottom: 9px;
+  }
+
+  .nav .rel-ed-button {
+    right: 18.5374149659%;
+  }
+
+  .parish-about {
+    margin-top: 627px;
+  }
+
+  .parish-schedule {
+    position: relative;
+    z-index: 39;
+  }
+
+  .parish-schedule .schedule,
+  .religious-ed .container {
+    width: 100%;
+  }
+
+  .parish-staff {
+    position: relative;
+    z-index: 62;
+  }
+
+  .sacramental-prep {
+    position: relative;
+    z-index: 23;
+    margin-top: -1046px;
+  }
+
+  .schedule .adoration {
+    position: relative;
+    float: none;
+    z-index: 22;
+    width: 100%;
+    margin-top: 30px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .schedule .confession {
+    position: relative;
+    float: none;
+    z-index: 14;
+    width: 100%;
+    margin-top: 30px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .schedule .image {
+    width: 100%;
+    height: auto;
+  }
+
+  .schedule .mass {
+    position: relative;
+    float: none;
+    z-index: 34;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .staff .staff-avatar {
+    width: 33%;
+    margin-left: 0;
+  }
+
+  .staff .staff-info {
+    clear: none;
+    width: 63.5%;
+  }
+
+  .staff .staff-member {
+    width: 100%;
+  }
+
+  .staff-member .staff-avatar {
+    height: auto;
+  }
+
+  .container .schedule-1 {
+    padding-bottom: 20px;
+  }
+
+  .container .schedule-2 {
+    clear: none;
+    margin-top: 60px;
+  }
+
+  .container .schedule-4 {
+    clear: none;
+    margin-top: 77px;
+    padding-bottom: 20px;
+  }
+
+  .horizontal-1 {
+    position: relative;
+    z-index: 70;
+  }
+
+  .horizontal-3 {
+    position: relative;
+    z-index: 47;
+    height: 221px;
+  }
+
+  .schedule .image-2 {
+    float: none;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .schedule .image-3 {
+    float: none;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .schedule .note-4 {
+    position: relative;
+    z-index: 7;
+    width: 76.4444444444%;
+    margin-top: 23px;
+  }
+
+  .schedule .schedule-section-1 {
+    clear: both;
+    width: 88.4444444444%;
+    margin-top: 20px;
+    margin-left: 5.77778%;
+  }
+
+  .schedule .schedule-section-2 {
+    float: none;
+    width: 88.6666666666%;
+    margin-top: 0;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 20px;
+  }
+
+  .schedule .schedule-section-4 {
+    float: none;
+    width: 88.4444444444%;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .staff .staff-member-1 {
+    margin-left: -0.04567%;
+  }
+
+  .staff .staff-member-2 {
+    clear: both;
+    margin-top: 24px;
+    margin-left: -0.05872%;
+  }
+
+  .staff .staff-member-3 {
+    clear: both;
+    margin-top: 24px;
+    margin-left: 0;
+  }
+
+  .staff-member .staff-info-1 {
+    margin-top: 31px;
+    margin-left: 2.99905%;
+  }
+
+  .staff-member .staff-info-2 {
+    margin-top: 31px;
+    margin-left: 2.98203%;
+  }
+
+  .staff-member .staff-info-3 {
+    margin-top: 19px;
+    margin-left: 2.99905%;
+  }
+
+  ._container .contact-1,
+  ._container .contact-2 {
+    width: 51.7857142857%;
+    margin-left: 8.57143%;
+  }
+
+  ._container .parish-name-1 {
+    width: 68%;
+    margin-top: 92px;
+    line-height: 1.68;
+  }
+
+  ._container .quick-links-1,
+  ._container .quick-links-2 {
+    width: 26.0714285714%;
+    margin-top: -2px;
+    margin-right: 8.57143%;
+  }
+
+  ._container-1 {
+    position: relative;
+    z-index: 72;
+  }
+
+  ._container-4 {
+    position: relative;
+    z-index: 6;
+    margin-top: -698px;
+  }
+
+  ._container-5 {
+    position: relative;
+    z-index: 6;
+  }
+}
